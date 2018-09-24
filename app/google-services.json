@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "198620663743",
+    "firebase_url": "https://dichvunhadat2018at12k.firebaseio.com",
+    "project_id": "dichvunhadat2018at12k",
+    "storage_bucket": "dichvunhadat2018at12k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198620663743:android:ca4c4f7df13e4d9a",
+        "android_client_info": {
+          "package_name": "com.laptopnct.dichvunhadat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198620663743-d4fsdpi8alcse8jd1q8ik08adb1tmae6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laptopnct.dichvunhadat",
+            "certificate_hash": "376d7ddc928a239d3eba3f76f2f90f1d1ecd78d5"
+          }
+        },
+        {
+          "client_id": "198620663743-gfei1nhs1p271l8v12eioorrh35h6kvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtIZoXY2Dj5KgXJz053O35jRUAPEOUqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198620663743-gfei1nhs1p271l8v12eioorrh35h6kvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
